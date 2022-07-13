@@ -1,4 +1,4 @@
-// Testing GitHub Sync
+// Testing GitHub Syncing
 using System.Diagnostics;
 
 namespace Strict_Time
