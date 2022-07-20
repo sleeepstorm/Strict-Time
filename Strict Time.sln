@@ -5,7 +5,7 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strict Time", "Strict Time\Strict Time.csproj", "{02518AE1-ED60-4949-B428-7BF317855285}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Strict Time!", "Strict Time!\Strict Time!.vdproj", "{499A36DA-9B10-4367-A6DA-EA7FC5246DE3}"
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Strict Time!", "Strict Time!\Strict Time!.vdproj", "{461B3D13-F185-4833-A1CE-9184F7BA860D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -40,16 +40,16 @@ Global
 		{02518AE1-ED60-4949-B428-7BF317855285}.Release|x64.Build.0 = Release|Any CPU
 		{02518AE1-ED60-4949-B428-7BF317855285}.Release|x86.ActiveCfg = Release|Any CPU
 		{02518AE1-ED60-4949-B428-7BF317855285}.Release|x86.Build.0 = Release|Any CPU
-		{499A36DA-9B10-4367-A6DA-EA7FC5246DE3}.Debug|Any CPU.ActiveCfg = Debug
-		{499A36DA-9B10-4367-A6DA-EA7FC5246DE3}.Debug|ARM.ActiveCfg = Debug
-		{499A36DA-9B10-4367-A6DA-EA7FC5246DE3}.Debug|ARM64.ActiveCfg = Debug
-		{499A36DA-9B10-4367-A6DA-EA7FC5246DE3}.Debug|x64.ActiveCfg = Debug
-		{499A36DA-9B10-4367-A6DA-EA7FC5246DE3}.Debug|x86.ActiveCfg = Debug
-		{499A36DA-9B10-4367-A6DA-EA7FC5246DE3}.Release|Any CPU.ActiveCfg = Release
-		{499A36DA-9B10-4367-A6DA-EA7FC5246DE3}.Release|ARM.ActiveCfg = Release
-		{499A36DA-9B10-4367-A6DA-EA7FC5246DE3}.Release|ARM64.ActiveCfg = Release
-		{499A36DA-9B10-4367-A6DA-EA7FC5246DE3}.Release|x64.ActiveCfg = Release
-		{499A36DA-9B10-4367-A6DA-EA7FC5246DE3}.Release|x86.ActiveCfg = Release
+		{461B3D13-F185-4833-A1CE-9184F7BA860D}.Debug|Any CPU.ActiveCfg = Debug
+		{461B3D13-F185-4833-A1CE-9184F7BA860D}.Debug|ARM.ActiveCfg = Debug
+		{461B3D13-F185-4833-A1CE-9184F7BA860D}.Debug|ARM64.ActiveCfg = Debug
+		{461B3D13-F185-4833-A1CE-9184F7BA860D}.Debug|x64.ActiveCfg = Debug
+		{461B3D13-F185-4833-A1CE-9184F7BA860D}.Debug|x86.ActiveCfg = Debug
+		{461B3D13-F185-4833-A1CE-9184F7BA860D}.Release|Any CPU.ActiveCfg = Release
+		{461B3D13-F185-4833-A1CE-9184F7BA860D}.Release|ARM.ActiveCfg = Release
+		{461B3D13-F185-4833-A1CE-9184F7BA860D}.Release|ARM64.ActiveCfg = Release
+		{461B3D13-F185-4833-A1CE-9184F7BA860D}.Release|x64.ActiveCfg = Release
+		{461B3D13-F185-4833-A1CE-9184F7BA860D}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
